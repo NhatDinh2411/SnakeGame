@@ -3,6 +3,7 @@
 This is a classic Snake Game implemented in Python. In this game, you control a snake moving in a 2D map. Avoid the walls and eat apples to grow longer.
 
 ![Snake Game](./images/image.png)
+
 ##Table of Contents
 
 - [🚀 Features](#---features)
