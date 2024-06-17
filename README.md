@@ -4,7 +4,7 @@ This is a classic Snake Game implemented in Python. In this game, you control a 
 
 ![Snake Game](./images/image.png)
 
-##Table of Contents
+## Table of Contents
 
 - [🚀 Features](#---features)
 - [🛠️ Installation](#----installation)
